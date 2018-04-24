@@ -1,4 +1,1 @@
-"# NiceWeather" 
-"# NiceWeather" 
-"# NiceWeather" 
-"# NiceWeather" 
+The application requests the current user coordinates from the GPS_PROVIDER and NETWORK_PROVIDER providers. Then Application sends the request, with the coordinates specified, by the Get method to the openweathermap.org site. Then Application gets information about the weather for the next 3 days at the point with the appropriate coordinates.
